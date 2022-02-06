@@ -1,4 +1,4 @@
-# -BBC-Microbit-V2-Reading-and-Connecting-Sensor-
+# -BBC-Microbit-V2-Low-Level-Interfacing-
 Description: To interface with the BBC Microbit V2 in order to display Data from sensors over the Bluetooth Low Energy(BLE) interface as well as the serial port.
 
 Aims: 
