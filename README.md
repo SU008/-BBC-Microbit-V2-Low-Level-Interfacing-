@@ -31,6 +31,10 @@ Step 3: Read the powerpoint slides
 
 Step 5: Download the file "main.c", "matrix.c", "matrix.h"
 
+Step 6: Download the zip file "ble_co2" and replace the files main.c, matrix.c, matrix.h inside this, with the downloaded ones from step 5. 
+
+Step 7: Build and run the ble_co2 using zephyr (refer to step 2 on how to do this). 
+
 
 
 
